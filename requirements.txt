@@ -1,0 +1,9 @@
+python-dotenv
+openai
+langchain
+langchain-openai
+langgraph
+deepagents
+pydantic
+httpx
+ipykernel
